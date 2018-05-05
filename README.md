@@ -10,3 +10,5 @@ Para executar o Chat Bot, será necessário seguir os seguintes passo:
 5 - Execute o comando "npm install"
 6 - Digite node index.js
 7 - Volte no BotFramework e já pode testar digitando Bom dia
+
+CAso precise de maiores informações pode consultar esse link https://medium.com/@programadriano/criando-um-bot-com-bot-builder-e-node-js-2047901cc7d8
